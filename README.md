@@ -95,4 +95,3 @@ I believe solutions thrive at the intersection of technical acumen and business 
 
 ---
 
-If you'd like me to help auto-generate project cards, add badges for achievements, or turn this into a portfolio-style landing page, I’m totally up for it. Let’s make it shine! 🌟
