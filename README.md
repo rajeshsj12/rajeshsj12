@@ -19,7 +19,7 @@
 
 ## 💬 About Me
 
-I'm a passionate and analytical professional navigating from Mechanical Engineering and Operations into Data Analytics. With 4.5 years of experience in optimizing processes and leading teams, I bring a real-world perspective to data-driven decision making.
+Data Analyst with a background in logistics and retail operations. I specialize in using tools like Power BI, SQL, and Python to analyze complex data, find actionable insights, and improve business processes. I have hands-on experience in building dashboards, optimizing warehouse operations, and analyzing sales data to drive efficiency and profitability.
 
 - 🔭 Currently solving complex business problems using data analysis techniques.
 - 🌱 Exploring advanced data modeling and predictive analytics.
@@ -45,53 +45,112 @@ I believe solutions thrive at the intersection of technical acumen and business 
   <img src="https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 ### 🔧 Core Competencies
 
-- **Data Analysis & BI**: Python (Pandas, Matplotlib, Seaborn), SQL (Joins, CTEs), Statistics  
-- **Visualization & Reporting**: Power BI, Tableau, Advanced Excel  
-- **Operational Excellence**: SOPs, FMEA, Inventory Optimization  
-- **Professional Skills**: Project Management, Collaboration, Critical Thinking
-
----
-
-## 🚀 Projects
-
-### 🏬 1. Warehouse Operational Efficiency Dashboard (Internship @ Bosch Ltd.)
-- SQL-based analysis of warehouse data extracted from Oracle
-- Built real-time Power BI dashboard to monitor operations
-- 📈 Identified 30% underutilized space → guided manufacturing decisions
-- 🧰 Tools: Power BI, SQL, Python, Excel
-
-### 📦 2. Strategic Sales & Profitability Analyzer
-- Developed centralized BI dashboard to analyze revenue & profitability
-- 🎯 Identified key customers & market opportunities
-- 🧰 Tools: Power BI, Excel
-
-### 🌐 3. Macroeconomic & Health Indicator Analysis
-- Created Power BI dashboard for global economic comparisons
-- 🔍 Visualized metrics like GDP, unemployment, life expectancy
-- 🧰 Tools: Power BI, Excel
-
----
-
-
-## 💼 Professional Experience
-
-| Role                             | Company                   | Duration                   |
-|----------------------------------|---------------------------|----------------------------|
-| Senior Executive                 | Reliance Retail Ltd       | Nov 2023 – Apr 2025        |
-| Data & Process Analyst Intern    | Bosch Ltd.                | Feb 2023 – May 2023        |
-| Team Lead / Operations Analyst   | Nova Carbons Pvt Ltd.     | Jun 2018 – Jun 2021        |
+- **Data Visualization**: Power BI (Dashboard Creation, DAX), Tableau, Tableau Prep
+- **Languages & Databases**: Python, MySQL (Joins, Window Functions, CTEs, Views, Indexing, Stored Procedures, Triggers, Functions), PostgreSQL
+- **Python Libraries**: Pandas (Data Manipulation), Scikit-learn (Machine Learning, Linear Regression), Seaborn & Matplotlib (Visualization)
+- **Spreadsheets & OS**: Advanced Excel (Pivot Tables, VLOOKUPs, Formulas, VBA), Windows, Linux (Ubuntu)
+- **Soft Skills**: Problem Solving, Cross-Functional Collaboration, Adaptability, Continuous Learning, Team Leadership
+- **Languages**: English, Tamil
 
 ---
 
 ## 🎓 Education & Certifications
 
-- 🎓 MBA in Operations & Business Analytics – University Regional Campus Tirunelveli (2021–2023)  
-- 🎓 BE in Mechanical Engineering – VOC College of Engineering Tuticorin (2013–2017)  
-- 🏆 Data Analytics Course – SLA Institute, Chennai  
+### 🎓 Education
+- **MBA in Operations & Business Analytics** – Anna University Regional Campus, Tirunelveli (2021–2023) • CGPA: 7.93
+- **BE in Mechanical Engineering** – University VOC College of Engineering, Tuticorin (2013–2017) • CGPA: 6.7
+
+### 🏆 Certifications
+- **Data Analytics Full Stack (Python, MySQL, Power BI)** – SLA Institute, KK Nagar • July 2025
+- **IBM - Python 101 for Data Science** • July 2025
+- **IBM - Machine Learning with Python** • July 2025
 
 ---
 
+## 🚀 Projects
+
+### 🗄️ 1. Sales Order DB Architecture with ACID-Compliant Business Logic
+- Developed an end-to-end relational database system for managing customer, order, and inventory data with full ACID-compliant logic in MySQL
+- Created optimized stored procedures to insert customer data with validation (duplicate email/phone checks), stock updates, and real-time cart management logic
+- Implemented AFTER UPDATE triggers for audit logging of changes in order details, ensuring full data traceability and rollback readiness
+- Applied data normalization (3NF) and indexing strategies on customer demographics and location fields to improve query performance
+- Designed table partitioning on registration date to prepare for scalability and future data growth
+- Ensured transactional integrity using TCL commands (COMMIT, ROLLBACK, SAVEPOINT) within complex business logic
+- 🧰 **Tools**: MySQL, SQL, Database Design
+
+### 🏬 2. Warehouse Operational Efficiency Dashboard (Internship @ Bosch Ltd.)
+- Built a Power BI dashboard using data from an Oracle SQL database to provide real-time view of warehouse stock accuracy
+- Analyzed warehouse utilization rates through Power BI and Oracle SQL, pinpointing underutilization in high-rack storage areas
+- 📈 Recommended tailored adjustments in manufacturing orders based on data insights
+- Formulated solution for liquidating aging inventory by leveraging Oracle SQL data extraction and Power BI reporting
+- 🧰 **Tools**: Power BI, Oracle SQL, DAX
+
+### 🛒 3. E-commerce Sales Analytics (PostgreSQL + Power BI)
+- Stored data in PostgreSQL with schema constraints and foreign keys from CSV files
+- Designed relational schema (ERD with Customers, Products, Inventory, Orders) ensuring normalization and data integrity
+- Connected PostgreSQL with Power BI to create interactive dashboards visualizing sales trends, top products, customer demographics, and low-stock alerts
+- 📊 Delivered key insights: festive season sales spikes, high-performing categories (Home & Electronics), regional performance (South & West), inventory alerts on products with <200 stock
+- 🧰 **Tools**: PostgreSQL, Power BI, SQL, Data Modeling
+
+### 📦 4. Strategic Sales & Profitability Analyzer
+- Designed comprehensive tool in Power BI and Excel to analyze sales development and profitability trends
+- 🎯 Identified top 20% of profitable customers and markets through advanced analytics
+- Visualized key sales metrics and broke down performance across various channels
+- 🧰 **Tools**: Power BI, Excel, DAX
+
+### 🌐 5. Macroeconomic & Health Indicator Analysis
+- Developed analytical tool in Power BI to explore country-level macroeconomic and health indicators
+- 🔍 Enabled visual comparison of economic and health trends (GDP, inflation, unemployment) between different nations
+- 🧰 **Tools**: Power BI, Excel
+
+---
+
+## 💼 Professional Experience
+
+| Role                                           | Company                   | Duration                   | Location        |
+|------------------------------------------------|---------------------------|----------------------------|-----------------|
+| Senior Executive                              | Reliance Retail Ltd       | Nov 2023 – Apr 2025        | Chennai         |
+| Intern - Logistics Dept (Data Analyst)       | Bosch Ltd.                | Feb 2023 – Jul 2023        | Gangaikondan    |
+| Production Experience / Team Lead            | Nova Carbons Pvt Ltd.     | Jun 2018 – Jun 2021        | Tirunelveli     |
+
+### 💼 Senior Executive - Reliance Retail Ltd (1.5 years)
+*November 2023 - April 2025, Chennai*
+- Analyzed sales, inventory, and customer service data from **SAP ERP** to track business performance and identify improvement areas
+- Conducted gap analysis on 5+ core sales processes using advanced Excel, **reducing process bottlenecks by over 15%**
+- Investigated JioMart's order handling data, providing findings that contributed to optimizing workflows and improving customer satisfaction scores
+
+### 📊 Data Analyst/Visualization Intern - Bosch Ltd (3.5 months)
+*February 2023 - July 2023, Gangaikondan plant*
+- Built Power BI dashboard using Oracle SQL database data to provide real-time view of warehouse stock accuracy
+- Analyzed warehouse utilization rates, **pinpointing underutilization in high-rack storage areas** and recommending manufacturing order adjustments
+- Formulated and implemented solution for liquidating aging inventory through Oracle SQL data extraction and Power BI reporting
+
+### 👥 Production Experience - Nova Carbons Pvt Ltd (3 years)
+*June 2018 - June 2021, Tirunelveli*
+- Monitored performance metrics for production team of 8, identifying operational inefficiencies and streamlining workflows
+- Authored and maintained key operational documents including Standard Operating Procedures (SOPs)
+- Tracked and reported production data, supporting management in making data-driven decisions about resource allocation
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeshsj12&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsj12&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" alt="Footer"/>
+</p>
