@@ -67,15 +67,14 @@ I believe solutions thrive at the intersection of technical acumen and business 
 - **BE in Mechanical Engineering** – University VOC College of Engineering, Tuticorin (2013–2017) • CGPA: 6.7
 
 ### 🏆 Certifications
-- **Data Analytics Full Stack (Python, MySQL, Power BI)** – SLA Institute, KK Nagar • July 2025
-- **IBM - Python 101 for Data Science** • July 2025
-- **IBM - Machine Learning with Python** • July 2025
+- **Data Analytics Full Stack (Python, MySQL, Power BI)** – SLA Institute, KK Nagar • July 2025 <a href="https://drive.google.com/file/d/15M-VrdrrXCM2lQArXgBAX6GPBxoB34lD/view?usp=drivesdk" target="_blank">(link)</a>
+- **IBM - Python 101 for Data Science** • July 2025 <a href="https://courses.etrain.skillsnetwork.site/certificates/0824dec341f244faafdb4b1e41cba70b" target="_blank">(link)</a>
+- **IBM - Machine Learning with Python** • July 2025 <a href="https://courses.etrain.skillsnetwork.site/certificates/c02a168e98e0417d8f2767d169fe7edd" target="_blank">(link)</a>
 
 ---
 
 ## 🚀 Projects
-
-### 🗄️ 1. Sales Order DB Architecture with ACID-Compliant Business Logic
+### <a href="https://github.com/rajeshsj12/SQL_Project/tree/main/Sales%20Order%20DB%20Architecture%20with%20ACID-Compliant%20Business%20Logic" target="_blank">🗄️ 1. Sales Order DB Architecture with ACID-Compliant Business Logic </a>
 - Developed an end-to-end relational database system for managing customer, order, and inventory data with full ACID-compliant logic in MySQL
 - Created optimized stored procedures to insert customer data with validation (duplicate email/phone checks), stock updates, and real-time cart management logic
 - Implemented AFTER UPDATE triggers for audit logging of changes in order details, ensuring full data traceability and rollback readiness
@@ -91,20 +90,20 @@ I believe solutions thrive at the intersection of technical acumen and business 
 - Formulated solution for liquidating aging inventory by leveraging Oracle SQL data extraction and Power BI reporting
 - 🧰 **Tools**: Power BI, Oracle SQL, DAX
 
-### 🛒 3. E-commerce Sales Analytics (PostgreSQL + Power BI)
+### <a href="https://github.com/rajeshsj12/E-commerce_Sales_Analytics_with_PostgreSQL_PowerBI" target="_blank"> 🛒 3. E-commerce Sales Analytics (PostgreSQL + Power BI) </a.
 - Stored data in PostgreSQL with schema constraints and foreign keys from CSV files
 - Designed relational schema (ERD with Customers, Products, Inventory, Orders) ensuring normalization and data integrity
 - Connected PostgreSQL with Power BI to create interactive dashboards visualizing sales trends, top products, customer demographics, and low-stock alerts
 - 📊 Delivered key insights: festive season sales spikes, high-performing categories (Home & Electronics), regional performance (South & West), inventory alerts on products with <200 stock
 - 🧰 **Tools**: PostgreSQL, Power BI, SQL, Data Modeling
 
-### 📦 4. Strategic Sales & Profitability Analyzer
+### <a href="https://github.com/rajeshsj12/PowerBI_Projects/tree/main/Strategic%20Sales%20and%20Profit%20Analyzer" target="_blank"> 📦 4. Strategic Sales & Profitability Analyzer </a>
 - Designed comprehensive tool in Power BI and Excel to analyze sales development and profitability trends
 - 🎯 Identified top 20% of profitable customers and markets through advanced analytics
 - Visualized key sales metrics and broke down performance across various channels
 - 🧰 **Tools**: Power BI, Excel, DAX
 
-### 🌐 5. Macroeconomic & Health Indicator Analysis
+### <a href="https://github.com/rajeshsj12/PowerBI_Projects/tree/main/Macro%20Economic%20Analysis" target="_blank"> 🌐 5. Macroeconomic & Health Indicator Analysis </a>
 - Developed analytical tool in Power BI to explore country-level macroeconomic and health indicators
 - 🔍 Enabled visual comparison of economic and health trends (GDP, inflation, unemployment) between different nations
 - 🧰 **Tools**: Power BI, Excel
@@ -125,7 +124,7 @@ I believe solutions thrive at the intersection of technical acumen and business 
 - Conducted gap analysis on 5+ core sales processes using advanced Excel, **reducing process bottlenecks by over 15%**
 - Investigated JioMart's order handling data, providing findings that contributed to optimizing workflows and improving customer satisfaction scores
 
-### 📊 Data Analyst/Visualization Intern - Bosch Ltd (3.5 months)
+### 📊 Intern(Data Analyst/Visualization) - Bosch Ltd (3.5 months)
 *February 2023 - July 2023, Gangaikondan plant*
 - Built Power BI dashboard using Oracle SQL database data to provide real-time view of warehouse stock accuracy
 - Analyzed warehouse utilization rates, **pinpointing underutilization in high-rack storage areas** and recommending manufacturing order adjustments
