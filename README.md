@@ -1,8 +1,7 @@
-# 👋 Hi! I'm Rajesh S  
 ### 📊 Results-Driven Data Analyst
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=180&section=header&text=Hi!%20I'm%20Rajesh%20S&fontSize=60&animation=fadeIn&desc=Results-Driven%20Data%20Analyst&descAlignY=60" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=180&section=header&text=Hi!%20I'm%20Rajesh%20S&fontSize=60&animation=fadeIn&descAlignY=60" alt="Header"/>
 </p>
 
 <p align="center">
